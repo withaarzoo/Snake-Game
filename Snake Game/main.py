@@ -2,10 +2,10 @@
 import turtle
 import random
 
-#head orientation
+#Head orientation
 h = [0]
 
-#score
+#Score
 a = [0]
 b = [0]
 
