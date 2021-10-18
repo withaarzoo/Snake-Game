@@ -2,7 +2,7 @@
 import turtle
 import random
 
-#head orientation
+#Head orientation
 h = [0]
 
 #Score
