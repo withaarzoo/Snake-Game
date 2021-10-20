@@ -2,17 +2,17 @@
 import turtle
 import random
 
-#Head orientation
+#head orientation
 h = [0]
 
-#Score
+#score
 a = [0]
 b = [0]
 
 #Food coord
 fcoord = [0,0,0]
 
-#Position
+#position
 pos = []
 
 
