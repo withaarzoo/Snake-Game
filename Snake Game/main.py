@@ -169,5 +169,5 @@ def gameover():
     turtle.onscreenclick(home)
     turtle.mainloop()
 
-if __name__ == '__main__' :
+if __name__ == '__main__':
     home(0,0)
