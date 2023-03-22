@@ -113,27 +113,19 @@ def food(tfood):
 
 #Up   
 def u():
-    if h[0] == 270:
-        pass
-    else:
+    if h[0] != 270:
         h[0] = 90
 #Down
 def d():
-    if h[0] == 90:
-        pass
-    else:
+    if h[0] != 90:
         h[0] = 270
 #Left
 def l():
-    if h[0] == 0:
-        pass
-    else:
+    if h[0] != 0:
         h[0] = 180
 #Right
 def r():
-    if h[0] == 180:
-        pass
-    else:
+    if h[0] != 180:
         h[0] = 0
 
 def move():
